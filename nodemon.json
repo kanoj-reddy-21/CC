@@ -1,0 +1,8 @@
+{
+    "env": {
+        "STRIPE_KEY": "sk_test_51PEwRRP2wzyzrItEO7ap2qhaCvyyi0e5L5KIq3y9sp3xvFpmHj9V36rfXyDlbIN9pzptdwNCapBYssZ9bPHC24dP00Ryqn8cbM",
+        "MONGO_USER": "kanojwork",
+        "MONGO_PASSWORD": "7wNBd1J335zv4YJu",
+        "MONGO_DATABASE": "test"
+    }
+}
